@@ -1,2 +1,2 @@
-# SOTIJP
-Sync Outlook Emial Content To Integration JIRA  Project
+# MX IOT Platform
+up
